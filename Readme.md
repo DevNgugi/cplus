@@ -1,5 +1,5 @@
 compile
 ```
-g++ -o <name> <file>.cpp
+g++ <file>.cpp -o <name> 
 
 ```
